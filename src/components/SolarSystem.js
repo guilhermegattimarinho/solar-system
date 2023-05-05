@@ -1,3 +1,4 @@
+import '../css/SolarSystem.css';
 import planets from '../data/planets';
 import PlanetCard from './PlanetCard';
 import Title from './Title';
@@ -6,7 +7,7 @@ function SolarSystem() {
   return (
     <>
       <Title headline="Planetas" />
-        <hr />
+        <hr className='planets-hr'/>
       <div data-testid="solar-system" className="solar-system">
         {
           planets.map((planet) => (
