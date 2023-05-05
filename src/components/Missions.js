@@ -1,3 +1,4 @@
+import '../css/Missions.css';
 import missions from '../data/missions';
 import MissionCard from './MissionCard';
 import Title from './Title';
