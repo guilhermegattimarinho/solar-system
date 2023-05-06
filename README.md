@@ -6,6 +6,7 @@ Projeto realizado no módulo de  fundamentos na Trybe utilizando React.
 
 #  Resultado Final 
 
+~ Aperte o play :)
 
 ~ Aperte o play :)
 
