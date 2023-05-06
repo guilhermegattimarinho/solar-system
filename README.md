@@ -6,6 +6,8 @@ Projeto realizado no módulo de  fundamentos na Trybe
 
 #  Resultado Final 
 
+~ Aperte o play :)
 
-https://user-images.githubusercontent.com/118028022/236593859-20e98e81-5f26-4a14-ac25-9fee8d1aa82e.mp4
+
+https://user-images.githubusercontent.com/118028022/236593935-21a42edc-0165-4395-9d6a-ad25c9becdc3.mp4
 
