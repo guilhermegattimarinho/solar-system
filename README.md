@@ -9,4 +9,3 @@ Projeto realizado no módulo de  fundamentos na Trybe utilizando React.
 
 
 
-![Uploading simplescreenrecorder-2023-05-05_23_07_32_AdobeExpress.gif…]()
