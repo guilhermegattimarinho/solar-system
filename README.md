@@ -8,8 +8,6 @@ Projeto realizado no módulo de  fundamentos na Trybe utilizando React.
 
 ~ Aperte o play :)
 
-~ Aperte o play :)
-
 https://user-images.githubusercontent.com/118028022/236594037-b1f5e52d-7efc-4168-ab1e-3b48bca1c1e6.mp4
 
 
