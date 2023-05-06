@@ -1,0 +1,81 @@
+.planet-card {
+  display: flex;
+  flex-direction: column;
+}
+
+.planet-name-tag {
+  position: absolute;
+  bottom: 0;
+}
+
+.planet-card:nth-child(1) .planet-name-tag {
+  left: 5.9%;
+}
+
+.planet-card:nth-child(2) .planet-name-tag {
+  left: 13.9%;
+}
+
+.planet-card:nth-child(3) .planet-name-tag {
+  left: 23.3%;
+}
+
+.planet-card:nth-child(4) .planet-name-tag {
+  left: 31.5%;
+}
+
+.planet-card:nth-child(5) .planet-name-tag {
+  left: 44.2%;
+}
+
+.planet-card:nth-child(6) .planet-name-tag {
+  left: 62.5%;
+}
+
+.planet-card:nth-child(7) .planet-name-tag {
+  left: 77.5%;
+}
+
+.planet-card:nth-child(8) .planet-name-tag {
+  left: 88.5%;
+}
+
+.planet-card:nth-child(1) img {
+  width: 41px;
+  height: 31px;
+}
+
+.planet-card:nth-child(2) img {
+  width: 102px;
+  height: 76px;
+}
+
+.planet-card:nth-child(3) img {
+  width: 106px;
+  height: 79px;
+}
+
+.planet-card:nth-child(4) img {
+  width: 66px;
+  height: 50px;
+}
+
+.planet-card:nth-child(5) img {
+  width: 272px;
+  height: 204px;
+}
+
+.planet-card:nth-child(6) img {
+  width: 282.41px;
+  height: 210.9px;
+}
+
+.planet-card:nth-child(7) img {
+  width: 144px;
+  height: 109px;
+}
+
+.planet-card:nth-child(8) img {
+  width: 144px;
+  height: 107px;
+}
